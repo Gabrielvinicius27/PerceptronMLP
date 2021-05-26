@@ -4,6 +4,6 @@
 
 A partir deste repositório é possível acessar o link para o notebook, onde desenvolvi uma rede neural simples e uma rede neural de múltiplas camadas a partir de dados coletados de exemplos da faculdade.
 
-https://colab.research.google.com/gist/Gabrielvinicius27/ff368aa4d7b187ba8426c44090a1d852/perceptron.ipynb#scrollTo=c7kHcSUs4K21
+https://colab.research.google.com/gist/Gabrielvinicius27/c4661f8f14ec918bd5e48f42bf95af2d/perceptron.ipynb
 
 Na pasta dados é possível acessar os arquivos que usei no notebook.
